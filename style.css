@@ -148,7 +148,27 @@ section.donors {
 /* Rodapé*/
 footer{
     margin-top: auto;
-    padding-bottom: 16px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
 
-    border: 1px solid #eee;
+    
+     color: #ffffff;
+
+    background-color: #df1d1d;
+    border-radius: 100px;;
+    border: 1px solid #fafafaf1;
+}
+
+/* Funcionalidade */
+
+section.form{
+    transition: all 300ms;
+}
+
+section.form.hide{
+    opacity: 0;
+    visibility: hidden;
+    height: 0;
+    margin-top: -70px;
 }
