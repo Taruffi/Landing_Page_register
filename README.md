@@ -1,7 +1,7 @@
-## Welcome to blood donors register
-You need to see how powerfull is this simple aplication 
+## Bem vindo ao registro de Doadores de Sangue
+com essa aplicação conseguiremos cadastrar o nome, e-mail e tipo snguíneo de cada um que 
 
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/VGWQIvCjZ336kZRIqp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/VGWQIvCjZ336kZRIqp">via GIPHY</a></p>
 
 
 
@@ -10,7 +10,6 @@ You need to see how powerfull is this simple aplication
 The fundamental of this aplication can be replaced in different situations and incremental of many ways
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
