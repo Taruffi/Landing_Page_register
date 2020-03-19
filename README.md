@@ -1,40 +1,12 @@
-## Bem vindo ao registro de Doadores de Sangue
-com essa aplicação conseguiremos cadastrar o nome, e-mail e tipo snguíneo de cada um que 
+## Blood Donors register
+This is a simple project to show how a Register Landig Page works
+
+   *Core Dependencies: Postgresql Server, Node.JS, HTML, CSS and Javascript.
+   
+## Functionalities
+- Hide and Apper the register form
+- Register data from new users in the Server
+- Show the new users in the session "Últimos doadores"
+
  
-https://gph.is/g/E0rGGrr
 
-
-
-
-
-The fundamental of this aplication can be replaced in different situations and incremental of many ways
-### Markdown
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Taruffi/Landing_Page_register/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
