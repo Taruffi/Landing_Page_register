@@ -1,7 +1,7 @@
 # Blood Donors register
 This is a simple project to show how a Register Landig Page works.
 
-*Core Dependencies: Postgresql Server, Node.JS, HTML, CSS and Javascript.*
+*Core Dependencies: PostgreSQL, Node.JS, HTML, CSS and Javascript.*
    
 ## Functionalities
 - Hide and Apper the register form
