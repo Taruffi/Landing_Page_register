@@ -18,3 +18,4 @@ This is a simple project to show how a Register Landig Page works.
 ## New features soon
 - Send e-mail for new users
 - Button to direct link
+- Show blood options in the form section "blood"
